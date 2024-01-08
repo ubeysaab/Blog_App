@@ -1,5 +1,7 @@
 export default function Footer(params) {
   return(
-    <div>footer</div>
+    <footer>
+      <p>Made by <b>Ubey Saab </b></p>
+    </footer>
   )
 };
